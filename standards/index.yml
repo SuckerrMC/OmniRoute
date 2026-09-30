@@ -1,0 +1,13 @@
+version: 1
+authority: AGENTS.md
+always:
+  - standards/coding/general.md
+  - standards/architecture/modules.md
+  - standards/security/secrets.md
+  - standards/testing/checks.md
+by_task:
+  api:
+    - standards/api/contracts.md
+  database:
+    - standards/database/access.md
+workflow: skills/agent-os/workflow.md
