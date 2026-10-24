@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./docs/screenshots/MainOmniRoute.png" alt="OmniRoute Dashboard" width="820"/>
@@ -7,7 +8,8 @@
 
 # 🚀 OmniRoute — The Free AI Gateway
 
-<img src="./docs/diagrams/readme-hero.svg" width="100%" alt="OmniRoute — Never stop coding. Every AI tool → 358 providers — 150+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 358 AI providers · 150+ free tiers · ~1.62B free tokens/mo · 19 routing strategies · $0 to start."/>
+<img src="./docs/diagrams/readme-hero.svg" width="100%" alt="OmniRoute — Never stop coding. Every AI tool → 358 providers — 15
+0+ free — through one endpoint. Claude Code, Codex, Cursor, Cline, Copilot & Antigravity into FREE Claude / GPT / Gemini with auto-fallback. RTK + Caveman stacked compression saves 15–95% tokens (~89% avg) — never hit limits. 358 AI providers · 150+ free tiers · ~1.62B free tokens/mo · 19 routing strategies · $0 to start."/>
 
 </div>
 
