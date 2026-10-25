@@ -1,0 +1,10 @@
+{
+  "gateway": "http://127.0.0.1:20128",
+  "roles": {
+    "architect": null,
+    "coder": null,
+    "reviewer": null,
+    "tester": null
+  },
+  "verifiedFreeModels": []
+}

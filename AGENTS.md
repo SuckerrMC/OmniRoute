@@ -6,6 +6,18 @@
 > and point back here. When a rule needs to change, change it HERE — never re-fork it into an
 > assistant-specific file.
 
+## Agent OS — personal fork integration
+
+For work in this fork, start with [product/agent-os.md](product/agent-os.md),
+[specs/agent-os.md](specs/agent-os.md), and [standards/index.yml](standards/index.yml).
+Follow [skills/agent-os/workflow.md](skills/agent-os/workflow.md) for each task.
+These documents index and extend this guide; existing Hard Rules remain authoritative.
+The directories `standards/`, `agents/`, `specs/`, `product/`, and `memory/` hold the
+personal fork's maintained Agent OS integration. They are permitted documentation
+containers. Temporary plans/research still follow the existing `_tasks/` convention.
+Roles are sequential responsibilities of the existing coding session; they do not
+create autonomous processes or configure additional provider accounts.
+
 ## Quick Start
 
 ```bash
